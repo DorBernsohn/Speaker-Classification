@@ -17,4 +17,6 @@ The Voxceleb dataset has ~250 speakers while all the content is free speech of c
 To test this complexity question, i thought that the best approach is to take the basic features. I calculated the 20 mfcc features for every sample and feed it to a NN.
 
 Notebook Table of Content:
-![Alt text](tableofcontent.png?raw=true "Title")
+
+
+![Alt text](tableofcontent.png?raw=true)
