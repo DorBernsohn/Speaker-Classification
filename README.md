@@ -1,6 +1,6 @@
 # Speaker_classification
 
-In this notebook im going to comprae two architectures for speaker identification on two datasets.
+In this notebook im going to comprae two architectures for speaker identification with MFCC as features on two datasets.
 
 the architectures:
 - LSTM model
