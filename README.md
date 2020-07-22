@@ -1,4 +1,4 @@
-# Speaker_classification
+# Speaker classification on Digit spoken dataset and Voxceleb dataset using MFCC
 
 In this notebook im going to comprae two architectures for speaker identification with MFCC as features on two datasets.
 
